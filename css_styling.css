@@ -263,3 +263,12 @@ body{
     font-size: 14pt;
     color: black;
 }
+
+footer {
+    text-align: center;
+    padding: 3px 60px;
+    background-color: #0000004d;
+    color: white;
+}
+
+</body>
